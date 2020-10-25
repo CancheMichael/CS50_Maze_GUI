@@ -1,0 +1,6 @@
+gui.a
+maze.o
+guiTesting
+core
+gtkGUITesting
+gtkGUI.o
